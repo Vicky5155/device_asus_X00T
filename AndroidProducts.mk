@@ -20,4 +20,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     wrath_X00T-user \
     wrath_X00T-userdebug \
-    wrath_X00T-eng
+    wrat_X00T-eng
